@@ -1,0 +1,1 @@
+Numero|Tipo|Endereco|UF|Total|CNPJ

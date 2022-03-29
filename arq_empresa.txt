@@ -1,0 +1,2 @@
+CNPJ|Inscricao Estadual|Nome|Municipio|UF
+33014556000196|492513778117|Americanas|Rio de Janeiro|RJ

@@ -1,0 +1,3 @@
+Tipo|Operacao
+1|Venda
+2|Compra
